@@ -1,0 +1,14 @@
+/*
+Author: Max Wallace
+Date:  8/23/2022 
+Purpose: This is the CSs files for styling the monster
+rolodex card-listing for each character.
+*/
+
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}

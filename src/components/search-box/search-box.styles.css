@@ -1,0 +1,17 @@
+/*
+Author: Max Wallace
+Date:  8/23/2022 
+Purpose: This is the CSS file for general 
+styling of a search box
+*/
+
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  
